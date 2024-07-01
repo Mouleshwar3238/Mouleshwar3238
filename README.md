@@ -1,4 +1,9 @@
-## Hi there 👋, I am Mouleshwar Saravanan
+# Hi there 👋, I am Mouleshwar Saravanan
+I am a budding Electrical and Computer Engineer who is interested in **Machine Learning, Deep Learning and Data Science**. <br>
+* *Currently:* MTech (Research) in Computational and Data Science student at NITK, Surathkal (2024 - 26)
+* *Previously:* BTech Electrical and Computer Engineering student at Amrita School of Engineering, Coimbatore (2020 - 24)
+
+
 
 <!--
 **Mouleshwar3238/Mouleshwar3238** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
