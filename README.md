@@ -3,6 +3,10 @@ I am a budding Electrical and Computer Engineer who is interested in **Machine L
 * *Currently:* MTech (Research) in Computational and Data Science student at NITK, Surathkal (2024 - 26)
 * *Previously:* BTech Electrical and Computer Engineering student at Amrita School of Engineering, Coimbatore (2020 - 24)
 
+## Skills and Competencies
+* Databases: **MySQL**
+* Languages: **Python (Intermediate), MATLAB (Intermediate), R (Basic)**
+* Tools: **Jupyter, MySQL WorkBench, Visual Studio Code**
 
 
 <!--
