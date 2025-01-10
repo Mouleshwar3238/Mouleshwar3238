@@ -1,5 +1,5 @@
 # Hi there 👋, I am Mouleshwar Saravanan
-I am a budding Electrical and Computer Engineer who is interested in **Machine Learning, Deep Learning and Data Science**. <br>
+I am a budding Electrical and Computer Engineer who is interested in **Machine Learning, Deep Learning** and **Data Science**. <br>
 * *Currently:* MTech (Research) in Computational and Data Science student at National Institute of Technology Karnataka, Surathkal (2024 - Present)
 * *Previously:* BTech Electrical and Computer Engineering student at Amrita School of Engineering, Coimbatore (2020 - 24)
 
