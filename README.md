@@ -7,6 +7,7 @@ I am a budding Electrical and Computer Engineer who is interested in **Machine L
 * Languages: **Python (Intermediate), MATLAB (Intermediate), R (Basic)**
 * Tools: **Jupyter, Visual Studio Code, MySQL Workbench, R Studio**
 * Databases: **SQL**
+* Libraries: **Pandas, NumPy, Matplotlib, Scikit-Learn, Keras**
 * Soft Skills: **Time Management, Teamwork, Team Leadership**
 
 
