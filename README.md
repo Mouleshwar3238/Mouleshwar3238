@@ -4,9 +4,11 @@ I am a budding Electrical and Computer Engineer who is interested in **Machine L
 * *Previously:* BTech Electrical and Computer Engineering student at Amrita School of Engineering, Coimbatore (2020 - 24)
 
 ## Skills and Competencies
-* Databases: **MySQL**
 * Languages: **Python (Intermediate), MATLAB (Intermediate), R (Basic)**
-* Tools: **Jupyter, MySQL WorkBench, Visual Studio Code**
+* Tools: **Jupyter, Visual Studio Code, MySQL Workbench, R Studio**
+* Databases: **SQL**
+* Soft Skills: **Time Management, Teamwork, Team Leadership**
+
 
 
 <!--
